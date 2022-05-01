@@ -1,3 +1,2 @@
-<?php
-    echo "Hola";
-?>
+<?php echo "Hola";
+$hola = 25.25;
